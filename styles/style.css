@@ -1,0 +1,22 @@
+body {
+    background-color: lightsteelblue;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: cursive;
+}
+
+li {
+    list-style-type: none;
+    text-align: center;
+}
+
+a {
+    color: blueviolet;
+}
+
+a:hover {
+    font-weight: bold;
+}
