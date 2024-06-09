@@ -1,0 +1,17 @@
+* {
+  background-color: burlywood;
+}
+
+.title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menuList {
+  list-style-position: inside;
+  list-style-type: none;
+}
+
+.menuItem {
+  text-decoration: none;
+  color: darkslategray;
+}
