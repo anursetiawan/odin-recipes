@@ -1,0 +1,22 @@
+body {
+  background-color: lightyellow;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, li {
+  text-align: center;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: darksalmon;
+  text-decoration: none;
+  font-size: 24px;
+}
